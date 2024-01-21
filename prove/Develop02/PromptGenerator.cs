@@ -6,6 +6,13 @@ public class PromptGenerator
         "What activity did I do today that brought me the least pleasure?",
         "What was the strongest positive emotion I felt today?",
         "If I had one thing I could do over today, what would it be?",
+        "What was the positive thought that helped me today?",
+        "What was the fun thing I did today?",
+        "What made me angry today?",
+        "Whom did I serve today?",
+        "For which I am grateful today?"
+
+
     };
 
     public string GetRandomPrompt()
